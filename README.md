@@ -1,5 +1,5 @@
-# 💫 About Me:
-IT graduate with a focus on cybersecurity and software development. Passionate about building practical solutions like student management systems and exploring secure technologies using Python and modern web tools.
+# About Roy Takura Muroyi:
+IT graduate with a focus on cybersecurity and software development. Passionate about building practical solutions like student management systems and exploring secure technologies using Python and modern web tools. Agile Project Management Supervisor at SRH (Berlin Campus).
 
 
 ## 🌐 Socials:
