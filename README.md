@@ -36,5 +36,5 @@ https://www.berlin.de/sen/bjf/anerkennung/schulische-abschluesse/english/
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/joshmadako
